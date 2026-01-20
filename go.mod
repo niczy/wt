@@ -1,3 +1,3 @@
-module github.com/nicholas/wt
+module github.com/niczy/wt
 
 go 1.22
