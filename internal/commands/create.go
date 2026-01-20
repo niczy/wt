@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/nicholas/wt/internal/git"
+	"github.com/niczy/wt/internal/git"
 )
 
 // Create handles the -c flag to create a new worktree

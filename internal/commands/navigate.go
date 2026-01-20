@@ -8,8 +8,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/nicholas/wt/internal/fuzzy"
-	"github.com/nicholas/wt/internal/git"
+	"github.com/niczy/wt/internal/fuzzy"
+	"github.com/niczy/wt/internal/git"
 )
 
 // Navigate handles the default command to enter a worktree directory
