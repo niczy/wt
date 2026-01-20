@@ -5,13 +5,13 @@ A CLI tool to create and manage git worktrees with fuzzy search.
 ## Installation
 
 ```bash
-go install github.com/nicholas/wt@latest
+go install github.com/niczy/wt@latest
 ```
 
 Or build from source:
 
 ```bash
-git clone https://github.com/nicholas/wt.git
+git clone https://github.com/niczy/wt.git
 cd wt
 go build -o wt .
 ```
