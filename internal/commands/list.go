@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/nicholas/wt/internal/git"
+	"github.com/niczy/wt/internal/git"
 )
 
 // List shows all worktrees in WT_HOME

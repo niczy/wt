@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/nicholas/wt/internal/commands"
+	"github.com/niczy/wt/internal/commands"
 )
 
 const usage = `wt - Git Worktree Manager
